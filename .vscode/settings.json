@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.shell.windows":"C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\trong\\Anaconda3\\Scripts\\activate.bat C:\\Users\\trong\\Anaconda3 & conda activate PythonData "],
+    "code-runner.executorMap": { 
+        "python": "C:\\Users\\trong\\Anaconda3\\Scripts\\activate.bat C:\\Users\\trong\\Anaconda3 & conda activate PythonData & python $fullFileName"
+    },
+    "code-runner.runInTerminal": true
+}
