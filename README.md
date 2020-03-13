@@ -62,38 +62,38 @@ finding a few key aspects of Oahu’s seasonal weather data. The investors want 
 3. Statictis for December's  Precipitation and Temperture
 
 4. Side by Side June and December Precipitation
-    a. Statitics
-    b. box and whisker plot
-    c. outliers
+    1. Statitics
+    2. box and whisker plot
+    3. outliers
     
     ![Precipitation_June_Dec.png](Precipitation_June_Dec.png)
     
 5. Side by Side June and December Temperture
-    a. Statitics
-    b. box and whisker plot
-    c. outliers
+    1. Statitics
+    2. box and whisker plot
+    3. outliers
     
     ![Temperature_June_Dec.png](Temperature_June_Dec.png)
     
 6. Further analysis
-    1. The Average Temperature of June Each Year
+   
     ![01.png](01.png)
-    2. The Average Temperature of December Each Year
+   
     ![02.png](02.png)
-    3. The precipitation Temperature of June Each Year
+ 
     ![03.png](03.png)
-    4. The precipitation Temperature of December Each Year
+  
     ![04.png](04.png)
-    5. Scatter plot Precipitation Meausurement by June Date
+  
     ![05.png](05.png)
-    6. Scatter plot Precipitation Meausurement by June Date
+   
     ![06.png](06.png)
-    7. Scatter plot Temperature Meausurement between June to December date
+    
     ![07.png](07.png)
-    8. The Temperature Meausurement Average by June to December month
+   
     ![08.png](08.png)
-    9. Scatter plot Precipitation Meausurements by June to December Date
+  
     ![09.png](09.png)
-    10. The Precipitation Meausurement Average by June to December month
+   
     ![10.png](10.png)
     
