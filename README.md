@@ -59,7 +59,11 @@ finding a few key aspects of Oahu’s seasonal weather data. The investors want 
 
 2. Statictis for June's Precipitation and Temperture
 
+  ![JuneStas.png](JuneStas.png)
+
 3. Statictis for December's  Precipitation and Temperture
+  
+  ![DecemberStas.png](DecemberStas.png)
 
 4. Side by Side June and December Precipitation
     1. Statitics
