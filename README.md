@@ -66,20 +66,20 @@ finding a few key aspects of Oahu’s seasonal weather data. The investors want 
   ![DecemberStas.png](DecemberStas.png)
 
 4. Side by Side June and December Precipitation
-    1. Statitics
+    1. Statistics
     2. box and whisker plot
     3. outliers
     
     ![Precipitation_June_Dec.png](Precipitation_June_Dec.png)
     
 5. Side by Side June and December Temperture
-    1. Statitics
+    1. Statistics
     2. box and whisker plot
     3. outliers
     
     ![Temperature_June_Dec.png](Temperature_June_Dec.png)
     
-6. Further analysis
+6. Further Analysis
    
     ![01.png](01.png)
    
